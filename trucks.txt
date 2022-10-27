@@ -1,0 +1,2 @@
+ABC123,2000,Ranger,Ford
+XYZ123,3500,F-150,Ford
